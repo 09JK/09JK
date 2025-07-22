@@ -10,7 +10,7 @@ Ich bin ein leidenschaftlicher Entwickler mit Fokus auf **Webentwicklung, FiveM 
 
 ### 🛠️ Technologien & Tools
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,docker,git,linux&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,docker,git,linux,lua&perline=6" alt="Tech Stack" />
 
 ---
 
