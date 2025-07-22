@@ -1,5 +1,3 @@
----
-
 ## 🌟 Willkommen in meinem GitHub-Profil!
 
 ## Hey, ich bin Jeremy 👋
@@ -27,14 +25,14 @@ Ich bin ein leidenschaftlicher Entwickler mit Fokus auf **Webentwicklung, FiveM 
 
 ### 📫 Kontakt & Links
 
-* 📬 Mail: `kontakt@jeremy-kirsch.de`
+- 📬 Mail: `kontakt@jeremy-kirsch.de`
 
 ---
 
 ### 💡 Fun Facts
 
-* 🎵 Ich programmiere am liebsten mit Musik (meist Metal oder Nightcore)
-* 🌍 Ich arbeite gerne remote und liebe internationale Teams
+- 🎵 Ich programmiere am liebsten mit Musik (meist Metal oder Nightcore)
+- 🌍 Ich arbeite gerne remote und liebe internationale Teams
 
 ---
 
@@ -45,21 +43,3 @@ Wenn dir eins meiner Projekte geholfen hat, dann ⭐ es gerne oder schreib mir!
 ---
 
 **Let's build something great together! 🚀**
-
----
-
-
-<!--
-**09JK/09JK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
