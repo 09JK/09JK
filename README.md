@@ -2,7 +2,7 @@
 
 ## 🌟 Willkommen in meinem GitHub-Profil!
 
-### Hey, ich bin \Jeremy 👋
+### Hey, ich bin Jeremy 👋
 
 > *"Code ist wie Magie – aber reproduzierbar."*
 
